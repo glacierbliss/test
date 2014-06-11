@@ -1,2 +1,2 @@
 Hello world.
-Adding from Chrome.
+Adding from Chrome. and something else.
